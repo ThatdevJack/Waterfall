@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bf77e12830883f44ea236e15ca6277c3
+guid: 8bd92785a7125bd4f876171884470c09
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -162,13 +162,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Guy Idle_0
+      name: Guy Idle (1)_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 162
-        width: 22
-        height: 33
+        x: 45
+        y: 810
+        width: 110
+        height: 165
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,20 +176,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d13799b607ec7040ae738499ddb91c6
-      internalID: -2109147774
+      spriteID: 734a2d36513c9c3419d60dd950d52174
+      internalID: 2068894190
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Guy Idle_1
+      name: Guy Idle (1)_1
       rect:
         serializedVersion: 2
-        x: 49
-        y: 162
-        width: 22
-        height: 33
+        x: 245
+        y: 810
+        width: 110
+        height: 165
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,20 +197,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de9bf88187fc52e4cb324a8211e7cf57
-      internalID: -1067289956
+      spriteID: 756521cd531dd3c499045f82619bf96a
+      internalID: -1782663227
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Guy Idle_2
+      name: Guy Idle (1)_2
       rect:
         serializedVersion: 2
-        x: 89
-        y: 162
-        width: 22
-        height: 33
+        x: 445
+        y: 810
+        width: 110
+        height: 165
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,20 +218,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b67b6be7c36080d44b3aad2b6dc24ef8
-      internalID: -1562814991
+      spriteID: 154e5faf8182c584bab66ba3413c87af
+      internalID: -204267018
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Guy Idle_3
+      name: Guy Idle (1)_3
       rect:
         serializedVersion: 2
-        x: 129
-        y: 162
-        width: 22
-        height: 33
+        x: 645
+        y: 810
+        width: 110
+        height: 165
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -239,20 +239,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27fbe76479a7e3c409e0939ca8fadbd3
-      internalID: 357894815
+      spriteID: 7a1cfcc8bda87454e8a31c645d747eaf
+      internalID: 1137469571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Guy Idle_4
+      name: Guy Idle (1)_4
       rect:
         serializedVersion: 2
-        x: 9
-        y: 122
-        width: 22
-        height: 33
+        x: 45
+        y: 610
+        width: 110
+        height: 165
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,20 +260,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1449290a0f2b2642b06de584d88c667
-      internalID: -190807713
+      spriteID: a1339fd73b5815a4987f179fd0a08e26
+      internalID: 1842874905
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Guy Idle_5
+      name: Guy Idle (1)_5
       rect:
         serializedVersion: 2
-        x: 49
-        y: 122
-        width: 22
-        height: 33
+        x: 245
+        y: 610
+        width: 110
+        height: 165
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -281,20 +281,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd6ea7f2f2344d24e99b8d2db5f3c774
-      internalID: -1916826050
+      spriteID: 941d8f55de030b34bb985be6b73f2cae
+      internalID: -81611876
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Guy Idle_6
+      name: Guy Idle (1)_6
       rect:
         serializedVersion: 2
-        x: 89
-        y: 122
-        width: 22
-        height: 33
+        x: 445
+        y: 610
+        width: 110
+        height: 165
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,20 +302,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: acf9412cccf27bc4fba49738200899ed
-      internalID: 1168009591
+      spriteID: f19a366355e49114aa48e629bda5eb58
+      internalID: -613093361
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Guy Idle_7
+      name: Guy Idle (1)_7
       rect:
         serializedVersion: 2
-        x: 129
-        y: 122
-        width: 22
-        height: 33
+        x: 645
+        y: 610
+        width: 110
+        height: 165
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -323,20 +323,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9908e7505d9a2694796b8f05fdbd362c
-      internalID: 227479108
+      spriteID: eafdd27d003bc1d45b058a651221d338
+      internalID: -1715085874
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Guy Idle_8
+      name: Guy Idle (1)_8
       rect:
         serializedVersion: 2
-        x: 9
-        y: 82
-        width: 22
-        height: 33
+        x: 45
+        y: 410
+        width: 110
+        height: 165
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,20 +344,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63bb7348de701874fa21a56317140a20
-      internalID: 1037716809
+      spriteID: 3aaf6a6cbb1cc35439eee900ffd460bc
+      internalID: 1269288748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Guy Idle_9
+      name: Guy Idle (1)_9
       rect:
         serializedVersion: 2
-        x: 49
-        y: 82
-        width: 22
-        height: 33
+        x: 245
+        y: 410
+        width: 110
+        height: 165
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -365,20 +365,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72db8919c2426a748874f8eaf74eb165
-      internalID: 715237880
+      spriteID: 84455a8655b7a784bb2e67bf98de844b
+      internalID: -1228249613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Guy Idle_10
+      name: Guy Idle (1)_10
       rect:
         serializedVersion: 2
-        x: 89
-        y: 82
-        width: 22
-        height: 33
+        x: 445
+        y: 410
+        width: 110
+        height: 165
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -386,20 +386,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe69c9b33a97fad4fb750d747952c1d3
-      internalID: -1863719004
+      spriteID: c1491b674e8d96b49b24733d7f67e8cc
+      internalID: -147986838
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Guy Idle_11
+      name: Guy Idle (1)_11
       rect:
         serializedVersion: 2
-        x: 129
-        y: 82
-        width: 22
-        height: 33
+        x: 645
+        y: 410
+        width: 110
+        height: 165
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -407,20 +407,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 041e9446f60dcb440857f275e3d9ba51
-      internalID: -728289351
+      spriteID: 1ef500b2c21ad35498837f24f8babcc8
+      internalID: 1958092667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Guy Idle_12
+      name: Guy Idle (1)_12
       rect:
         serializedVersion: 2
-        x: 9
-        y: 42
-        width: 22
-        height: 33
+        x: 45
+        y: 210
+        width: 110
+        height: 165
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,20 +428,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b44ee8f80de3096498cae7926169af36
-      internalID: 1074132548
+      spriteID: 0b613ffeb3399ad48a1f44a1e16c2a83
+      internalID: 1474437029
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Guy Idle_13
+      name: Guy Idle (1)_13
       rect:
         serializedVersion: 2
-        x: 49
-        y: 42
-        width: 22
-        height: 33
+        x: 245
+        y: 210
+        width: 110
+        height: 165
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -449,20 +449,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1012cdbcb64492a4a97fe9b8040f73cc
-      internalID: -1596801564
+      spriteID: a043f7f6d7357674c85006f54efa4193
+      internalID: -577368425
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Guy Idle_14
+      name: Guy Idle (1)_14
       rect:
         serializedVersion: 2
-        x: 89
-        y: 42
-        width: 22
-        height: 33
+        x: 445
+        y: 210
+        width: 110
+        height: 165
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -470,20 +470,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ac0c5bc075323343a48c794cd00c909
-      internalID: -771620460
+      spriteID: 7e68d637083f1fa42a273d7d636dbc34
+      internalID: 1128321039
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Guy Idle_15
+      name: Guy Idle (1)_15
       rect:
         serializedVersion: 2
-        x: 129
-        y: 42
-        width: 22
-        height: 33
+        x: 645
+        y: 210
+        width: 110
+        height: 165
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -491,20 +491,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca1ee118dcc078b4a90aa01ebe71694e
-      internalID: 384233232
+      spriteID: 84c71abde88a8244c9c1058a235fba81
+      internalID: -1901523720
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Guy Idle_16
+      name: Guy Idle (1)_16
       rect:
         serializedVersion: 2
-        x: 9
-        y: 2
-        width: 22
-        height: 33
+        x: 45
+        y: 10
+        width: 110
+        height: 165
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -512,20 +512,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a18b58b12fb5b241b8747ad31ea4d7e
-      internalID: 2007853189
+      spriteID: 7b91ac5d13303b54387606704594ca6b
+      internalID: 222993833
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Guy Idle_17
+      name: Guy Idle (1)_17
       rect:
         serializedVersion: 2
-        x: 49
-        y: 2
-        width: 22
-        height: 33
+        x: 245
+        y: 10
+        width: 110
+        height: 165
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -533,8 +533,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e165c7e78e054d4b847be8fe387b90d
-      internalID: 1344958001
+      spriteID: 22b740d3d82a8c0459768cdc68f3c14e
+      internalID: -2013309248
       vertices: []
       indices: 
       edges: []
@@ -550,24 +550,24 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Guy Idle_0: -2109147774
-      Guy Idle_1: -1067289956
-      Guy Idle_10: -1863719004
-      Guy Idle_11: -728289351
-      Guy Idle_12: 1074132548
-      Guy Idle_13: -1596801564
-      Guy Idle_14: -771620460
-      Guy Idle_15: 384233232
-      Guy Idle_16: 2007853189
-      Guy Idle_17: 1344958001
-      Guy Idle_2: -1562814991
-      Guy Idle_3: 357894815
-      Guy Idle_4: -190807713
-      Guy Idle_5: -1916826050
-      Guy Idle_6: 1168009591
-      Guy Idle_7: 227479108
-      Guy Idle_8: 1037716809
-      Guy Idle_9: 715237880
+      Guy Idle (1)_0: 2068894190
+      Guy Idle (1)_1: -1782663227
+      Guy Idle (1)_10: -147986838
+      Guy Idle (1)_11: 1958092667
+      Guy Idle (1)_12: 1474437029
+      Guy Idle (1)_13: -577368425
+      Guy Idle (1)_14: 1128321039
+      Guy Idle (1)_15: -1901523720
+      Guy Idle (1)_16: 222993833
+      Guy Idle (1)_17: -2013309248
+      Guy Idle (1)_2: -204267018
+      Guy Idle (1)_3: 1137469571
+      Guy Idle (1)_4: 1842874905
+      Guy Idle (1)_5: -81611876
+      Guy Idle (1)_6: -613093361
+      Guy Idle (1)_7: -1715085874
+      Guy Idle (1)_8: 1269288748
+      Guy Idle (1)_9: -1228249613
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4b737d4245007c143a7eaa4b4c685e4d
+guid: a126de3013f67e84a8e6e46029b8f5f3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -160,7 +160,70 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Guy Run (1)_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 210
+        width: 110
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09792bb6952534498eb95ba51481aa5
+      internalID: 974735945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy Run (1)_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 210
+        width: 115
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56dad3f843dcbf4da2b05e8890d30c6
+      internalID: 465748424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy Run (1)_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 10
+        width: 90
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef66b27891876cf4eb1b79d1a13b929b
+      internalID: -1739439117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -171,7 +234,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Guy Run (1)_0: 974735945
+      Guy Run (1)_1: 465748424
+      Guy Run (1)_2: -1739439117
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

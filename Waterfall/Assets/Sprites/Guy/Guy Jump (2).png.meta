@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 57ef55209f7f04c499ae579dfa7d992c
+guid: 03d86a31b407570419eb5bffe78d0da6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -160,7 +160,49 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Guy Jump (2)_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 205
+        width: 105
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6323a618e221ef640af6eb88080d96ac
+      internalID: -388641360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy Jump (2)_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5
+        width: 105
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b60a07e56a07e42a2bf79ac823526d
+      internalID: 7200866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -171,7 +213,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Guy Jump (2)_0: -388641360
+      Guy Jump (2)_1: 7200866
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
