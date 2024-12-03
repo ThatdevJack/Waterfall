@@ -6,13 +6,13 @@ using UnityEngine;
 public class Destroy : MonoBehaviour
 
 {
-    void OnTriggerEnter(Collider collider)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collider.gameObject.tag == "Ground")
+        if(collision.gameObject.tag == "GameObject")
         {
-            // destroy this object
-            Destroy(collider.gameObject);
+            Destroy(collision.gameObject);
         }
+
     }
 
     void Start()

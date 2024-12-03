@@ -18,6 +18,16 @@ PrefabInstance:
       propertyPath: m_Offset.y
       value: 0.03906774
       objectReference: {fileID: 0}
+    - target: {fileID: 758467992352455670, guid: b68563ec3e9a48546978c70330131d99,
+        type: 3}
+      propertyPath: m_ExcludeLayers.m_Bits
+      value: 320
+      objectReference: {fileID: 0}
+    - target: {fileID: 758467992352455670, guid: b68563ec3e9a48546978c70330131d99,
+        type: 3}
+      propertyPath: m_IncludeLayers.m_Bits
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1766633009792213937, guid: b68563ec3e9a48546978c70330131d99,
         type: 3}
       propertyPath: m_FlipX

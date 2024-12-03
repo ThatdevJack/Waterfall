@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - TutorialRequirement
+  - ground
+  - Ground
+  - gameObject
+  - GameObject
   layers:
   - Default
   - TransparentFX
@@ -12,10 +16,10 @@ TagManager:
   - Ground
   - Water
   - UI
-  - Logs
-  - Barrel
-  - Player
+  - GameObject
   - 
+  - Player
+  - Walls
   - 
   - 
   - 
