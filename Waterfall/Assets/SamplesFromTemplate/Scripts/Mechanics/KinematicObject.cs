@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using static UnityEngine.RuleTile.TilingRuleOutput;
 
 namespace Platformer.Mechanics
 {
@@ -109,6 +110,18 @@ namespace Platformer.Mechanics
 
             velocity.x = targetVelocity.x;
 
+            //RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, 0.5f);
+            //if (hit)
+            //{
+            //    IsGrounded = true;
+            //    Debug.Log("OnGround");
+            //}
+            //else
+            //{
+            //    IsGrounded = false;
+            //    Debug.Log("NotOnGround");
+            //}
+
             IsGrounded = false;
 
             var deltaPosition = velocity * Time.deltaTime;
@@ -170,6 +183,14 @@ namespace Platformer.Mechanics
                 }
             }
             body.position = body.position + move.normalized * distance;
+        }
+
+        void OnDrawGizmos()
+        {
+            // Draw a yellow sphere at the transform's position
+            Gizmos.color = Color.yellow;
+            //Gizmos.DrawSphere(transform.position, 1);
+            Gizmos.DrawLine(transform.position, transform.position + new Vector3(0, -0.5f));
         }
 
     }

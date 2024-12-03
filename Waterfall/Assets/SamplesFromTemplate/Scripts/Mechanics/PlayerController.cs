@@ -17,7 +17,7 @@ namespace Platformer.Mechanics
         public AudioClip jumpAudio;
         public AudioClip respawnAudio;
         public AudioClip ouchAudio;
-
+        private bool OnGround = true;
         /// <summary>
         /// Max horizontal speed of the player.
         /// </summary>
@@ -102,15 +102,24 @@ namespace Platformer.Mechanics
             }
         }
 
+        //void FixedUpdate()
+        //{
+            
+        //}
+
         protected override void ComputeVelocity()
         {
             if (jump && IsGrounded)
             {
+                Debug.Log("Jump");
+
                 velocity.y = jumpTakeOffSpeed * model.jumpModifier;
                 jump = false;
             }
             else if (stopJump)
             {
+                Debug.Log("Stop Jump");
+                jumpState = JumpState.Grounded;
                 stopJump = false;
                 if (velocity.y > 0)
                 {
@@ -138,4 +147,6 @@ namespace Platformer.Mechanics
             Landed
         }
     }
+
+
 }
