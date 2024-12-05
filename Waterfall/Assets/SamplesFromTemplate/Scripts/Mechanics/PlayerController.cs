@@ -67,6 +67,7 @@ namespace Platformer.Mechanics
             else
             {
                 move.x = 0;
+                Debug.Log("move.x0");
             }
             UpdateJumpState();
             base.Update();
